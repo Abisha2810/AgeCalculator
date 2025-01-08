@@ -27,4 +27,4 @@ function getAge(birthdayValue) {
 
   return age;
 }
-
+btnEl.addEventListener("click", calculateAge);
